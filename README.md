@@ -3,12 +3,20 @@
 This is WIP!
 
 It is code to create very simplified elevation profile out of a gpx-file. It only uses ascii charackters in on line.
-Each symbol represents 250m in distance. The elevation diference depends on the gpx-file.
+Each symbol represents roughly 250m in distance. A bigger symbol stands for higher elevation.
+It is not supposed to be exact but to give you a very rough idea of the ups and downs of a trail. 
+For better and more beautiful elevation profiles i recommend outdooractive or komoot. Both are very good applications for planing a tour!
 
 For example:
 
-1. ..:::iiIIÎÎÎÎIiiiiiiiiiIÎÎIIIii::::::.................... [Example of a Hike in the Pyrenees] (https://www.outdooractive.com/de/route/wanderung/midi-pyrenees/pyrenees2018tag61/127256744/) 
-2. ........................:::::::::::iiIIIIIIÎÎÎIIIIii:iiiiIIIIIIIIIIIÎÎÎÎÎÎIÎÎÎIIIIIIiiiiii:::::::i:::....... [Example of a biketrail] (https://www.outdooractive.com/de/route/mountainbike/schwarzwald/mountainbike-tour-auf-den-totenkopf-im-kaiserstuhl/6409788/)
+1. ..:::iiIIÎÎÎÎIiiiiiiiiiIÎÎIIIii::::::.................... (https://www.outdooractive.com/de/route/wanderung/midi-pyrenees/pyrenees2018tag61/127256744/) 
+2. ........................:::::::::::iiIIIIIIÎÎÎIIIIii:iiiiIIIIIIIIIIIÎÎÎÎÎÎIÎÎÎIIIIIIiiiiii:::::::i:::....... (https://www.outdooractive.com/de/route/mountainbike/schwarzwald/mountainbike-tour-auf-den-totenkopf-im-kaiserstuhl/6409788/)
+
+
+The code is written in python. It uses minidom, pandas and the math module.
+
+
+ 
   
 
 
