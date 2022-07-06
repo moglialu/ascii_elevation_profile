@@ -9,11 +9,15 @@ For better and more beautiful elevation profiles i recommend outdooractive or ko
 
 For example:
 
-1. ..:::iiIIÎÎÎÎIiiiiiiiiiIÎÎIIIii::::::.................... (https://www.outdooractive.com/de/route/wanderung/midi-pyrenees/pyrenees2018tag61/127256744/) 
-2. ........................:::::::::::iiIIIIIIÎÎÎIIIIii:iiiiIIIIIIIIIIIÎÎÎÎÎÎIÎÎÎIIIIIIiiiiii:::::::i:::....... (https://www.outdooractive.com/de/route/mountainbike/schwarzwald/mountainbike-tour-auf-den-totenkopf-im-kaiserstuhl/6409788/)
+1. ..:::iiIIÎÎÎÎIiiiiiiiiiIÎÎIIIii::::::.................... 
+ (https://www.outdooractive.com/de/route/wanderung/midi-pyrenees/pyrenees2018tag61/127256744/) 
+2. ........................:::::::::::iiIIIIIIÎÎÎIIIIii:iiiiIIIIIIIIIIIÎÎÎÎÎÎIÎÎÎIIIIIIiiiiii:::::::i:::....... 
+ (https://www.outdooractive.com/de/route/mountainbike/schwarzwald/mountainbike-tour-auf-den-totenkopf-im-kaiserstuhl/6409788/)
 
 
 The code is written in python. It uses minidom, pandas and the math module.
+
+To use it you have to place your gpx-file in the same directory as main.py. Run the script and enter the name of your gpx-file. 
 
 
  
