@@ -2,7 +2,7 @@
 
 This is WIP!
 
-It is code to create very simplified elevation profile out of a gpx-file. It only uses ascii charackters in on line.
+It is code to create a very simplified elevation profile out of a gpx-file. It only uses ascii charackters in on line.
 Each symbol represents roughly 250m in distance. A bigger symbol stands for higher elevation.
 It is not supposed to be exact but to give you a very rough idea of the ups and downs of a trail. 
 For better and more beautiful elevation profiles i recommend outdooractive or komoot. Both are very good applications for planing a tour!
