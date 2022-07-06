@@ -10,9 +10,9 @@ For better and more beautiful elevation profiles i recommend outdooractive or ko
 For example:
 
 1. ..:::iiIIÎÎÎÎIiiiiiiiiiIÎÎIIIii::::::.................... 
- (https://www.outdooractive.com/de/route/wanderung/midi-pyrenees/pyrenees2018tag61/127256744/) 
+ * (https://www.outdooractive.com/de/route/wanderung/midi-pyrenees/pyrenees2018tag61/127256744/) 
 2. ........................:::::::::::iiIIIIIIÎÎÎIIIIii:iiiiIIIIIIIIIIIÎÎÎÎÎÎIÎÎÎIIIIIIiiiiii:::::::i:::....... 
- (https://www.outdooractive.com/de/route/mountainbike/schwarzwald/mountainbike-tour-auf-den-totenkopf-im-kaiserstuhl/6409788/)
+ * (https://www.outdooractive.com/de/route/mountainbike/schwarzwald/mountainbike-tour-auf-den-totenkopf-im-kaiserstuhl/6409788/)
 
 
 The code is written in python. It uses minidom, pandas and the math module.
