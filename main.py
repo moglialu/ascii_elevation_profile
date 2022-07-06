@@ -1,4 +1,3 @@
-from tokenize import String
 from xml.dom import minidom
 import pandas as pd
 from math import radians, cos, sin, asin, sqrt
