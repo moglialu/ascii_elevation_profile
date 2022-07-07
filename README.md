@@ -5,7 +5,7 @@ This is WIP!
 It is code to create a very simplified elevation profile out of a gpx-file. It only uses ascii charackters in one line.
 Each symbol represents roughly 250m in distance. A bigger symbol stands for higher elevation.
 It is not supposed to be exact but to give you a very rough idea of the ups and downs of a trail. 
-For better and more beautiful elevation profiles i recommend outdooractive or komoot. Both are very good applications for planing a tour!
+
 
 For example:
 
@@ -17,7 +17,10 @@ For example:
 
 The code is written in python. It uses minidom, pandas and the math module.
 
-To use it you have to place your gpx-file in the same directory as main.py. Run the script and enter the name of your gpx-file. 
+To use it you have to place your gpx-file in the same directory as main.py. Run the script and enter the name of your gpx-file.
+
+
+For better and more beautiful elevation profiles I recommend outdooractive or komoot. Both are very good applications for planing a tour!
 
 
  
